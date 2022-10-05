@@ -1,0 +1,106 @@
+.payment{
+    background-color: white;
+}
+
+.payment_container > h2{
+    text-align: center;
+    padding: 10px;
+    font-weight: 400;
+    background-color: rgb(237, 237, 237);
+    border-bottom: 1px solid lightgray;
+    
+}
+.payment_container > h2 > strong >a{
+    text-decoration: none;
+    color: black;
+
+}
+.payment_distribution{
+    display: flex;
+    flex-direction: row;
+}
+.payment_details_left{
+    width: 500px;
+}
+.payment_address{
+    margin-bottom: 10px;
+}
+.payment_address > p{
+    margin-top: 5px;
+}
+
+.payment_section{
+    margin: 15px;
+    border-bottom: 1px solid lightgray;
+    
+}
+.payment_details{
+    height: 200px;
+    width: 200px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.payment_distribution .payment_details_right{
+    margin-left: 323px ;
+    margin-top: 75px;
+    width: 300px;
+    margin-bottom: 20px;
+}
+.payment_title1{
+    margin-bottom: 5px;
+    /* border-bottom: 1px solid lightgray; */
+
+    
+}
+.payment_details_right{
+    float: right;
+}
+.payment_details_right > .payment_section1{
+    margin-top: 10px;
+
+}
+.payment_details1{
+    margin-top: 5px;
+}
+.Payment_middle{
+    width: 200px;
+    height: 200px;
+}
+.payment_details1 .card_details > h3{
+    padding-bottom: 10px;
+}
+
+#id{
+    display: flex;
+    flex-direction: row;
+}
+
+.card_input{
+    height: 25px;
+    width: 300px;
+    border: 0.5px solid grey;
+    border-radius: 5px;
+    background: #faedca;
+    margin: 10px 0px 10px 0px;
+}
+.input2{
+    width: 50px;
+    margin: 10px 0px;
+}
+.input2_1{
+    width: 50px;
+    margin: 10px;
+}
+
+.payment_priceContainer > button{
+    margin-top: 10px;
+    background: #f0c14b;
+    border: 1px solid;
+    /* padding-bottom: 20px; */
+    border-color: #a88734 #9c7e31 #846a29;
+    color: black;
+    height: 30px;
+    width: 120px;
+    font-size: 0.8rem;
+    font-weight: 550;
+}

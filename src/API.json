@@ -1,0 +1,74 @@
+[
+    {
+    "description": "Kindle Scribe | The first Kindle for reading and writing. Features a 10.2-inch, 300 ppi Paperwhite display | 16 GB ",
+    "price": 329.99,
+    "number": 4,
+    "link": "https://images-eu.ssl-images-amazon.com/images/G/02/kindle/journeys/ZmQyMjM3ODQt/ZmQyMjM3ODQt-YmQ0NjU3ZWMt-w379._SY304_CB608574812_.jpg",
+    "id": 0,
+    "key": 100
+    },
+
+    {
+    "description": "Echo Studio | Our best-sounding smart speaker ever, with Dolby Atmos and Alexa | Glacier White ",
+    "price": 189.99,
+    "number": 2,
+    "link": "https://images-eu.ssl-images-amazon.com/images/G/02/kindle/journeys/ZmQyMjM3ODQt/ZmQyMjM3ODQt-YWRmY2NhMDMt-w379._SY304_CB608213116_.jpg",
+    "id": 1,
+    "key": 101
+    },
+
+    {
+    "description": "NuPro Clear Screen Protector for Amazon Fire HD 10 and Fire HD 10 Plus tablet 11th generation (2021 release), 2-pack ",
+    "price": 12.99,
+    "number": 2,
+    "link": "https://m.media-amazon.com/images/I/61QW0nDorIS._AC_UL480_QL65_.jpg",
+    "id": 2,
+    "key": 102
+    },
+
+    {
+    "description": "Regatta Women's Serleena Waterproof & Thermo-guard Insulated Faux Fur Hooded Parka Jacket",
+    "price": 34.58,
+    "number": 2,
+    "link": "https://m.media-amazon.com/images/I/71lF9fj-XwL._AC_UY327_QL65_.jpg",
+    "id": 3,
+    "key": 103
+    },
+
+    {
+    "description": "Salomon Speedcross 4 Gore-Tex, Men's waterproof trail running shoes",
+    "price": 90.48,
+    "number": 2,
+    "link": "https://m.media-amazon.com/images/I/71l7gjmosxL._AC_UY327_QL65_.jpg",
+    "id": 4 ,
+    "key": 104
+    },
+
+    {
+    "description": "Office Wood Storage Cabinet, 2 Door Engineered Wood Cupboard Tall White Slim Cabinet With Lock Bookcase Filing Cabinet For Family Office (White)",
+    "price": 97.99,
+    "number": 2,
+    "link": "https://m.media-amazon.com/images/I/31YblTfAPeL._AC_UY327_QL65_.jpg",
+    "id": 5,
+    "key": 105
+    },
+
+    {
+    "description": "DREAM PAIRS Womens High Block Heels Court Shoes Closed Toe Ankle Strap Chunky Wedding Pumps Dress Shoes ",
+    "price": 29.99,
+    "number": 2,
+    "link": "https://m.media-amazon.com/images/I/61v3hO7xT7L._AC_UY327_QL65_.jpg",
+    "id": 6,
+    "key": 106
+    },
+
+    {
+    "description": "LG OLED48C14LB 48 inch 4K UHD HDR Smart OLED TV (2021 Model) with Advanced α9 Gen4 AI processor, 4K SELF-LIT OLED, Dolby Vision IQ and Dolby Atmos, built-in Google Assistant and Alexa, Black [Energy Class G]",
+    "price": 999,
+    "number": 2,
+    "link": "https://m.media-amazon.com/images/I/71nazAB4yBL._AC_UY327_QL65_.jpg",
+    "id": 7,
+    "key": 107
+    }
+
+]

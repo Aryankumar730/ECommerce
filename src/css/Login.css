@@ -1,0 +1,81 @@
+/* *{
+    background-color: white;
+} */
+.Login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.login_logo{
+    margin: 20px 0px 20px 0px;
+    object-fit: contain;
+    width: 150px;
+}
+.login_container{
+    border: 1px solid grey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    z-index: 5;
+    background-color: white;
+}
+.login_container >h2{
+    margin: 10px;
+    font-size: 1.8rem;
+}
+.login_container .login_form > h5{
+    margin: 8px 0px;
+}
+.login_container .login_form > input{
+    height: 25px;
+    width: 300px;
+    border: 0.5px solid grey;
+    border-radius: 5px;
+    background: #faedca;
+}
+.button1{
+    display: block;
+    margin: auto;
+    
+    background: #f0c14b;
+    border: 1px solid;
+    
+    border-color: #a88734 #9c7e31 #846a29;
+    color: black;
+    height: 30px;
+    
+    font-size: 0.8rem;
+    font-weight: 550;
+    margin-top: 25px;
+    margin-bottom: 10px;
+
+}
+.login_signInButton{
+   
+    width: 120px;
+}
+.login_container > p{
+    width: 300px;
+    /* margin: 10px; */
+    padding: 20px 30px 30px 30px;
+    font-size: 0.8rem;
+    text-align: justify;
+    height: 50px;
+
+}
+.Login > p{
+    padding: 20px 0px 0px 0px;
+    font-size: 0.8rem;
+    text-align: justify;
+    
+
+}
+.login_registerButton{
+
+    width: 350px;
+
+}
